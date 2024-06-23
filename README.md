@@ -5,7 +5,7 @@
 <p align='center'>
    <a 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Ben | 💻 Python Enthusiast | 🛸 Germany <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Ben | 💻 Python Enthusiast (Liebhaber von Python) | 🛸 Germany <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <p align="center">
  </p>
@@ -18,8 +18,11 @@
   <h3> I'm 13 years old and from Germany.</h3>
 </p>
 Learning Python and enjoying every moment of it!
+
 I do fullstack development and explore various technologies :heart:
+
 <!-- Social links can be added here -->
+
 <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
 </p>
@@ -36,7 +39,7 @@ I do fullstack development and explore various technologies :heart:
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/typescript.svg" alt="typescript" style="vertical-align:top; margin:4px">
-
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 <!--
 ### - Blogs 🌱
