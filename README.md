@@ -53,8 +53,7 @@ I do fullstack development and explore various technologies :heart:
    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
 </p>
 <br />
-<h2 align="center">🤝 Support</h2>
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
 <p align="center">💙 If you like my projects, give them ⭐ and share them with friends!</p>
 <p align="center">Made with ❤️ in Germany</p>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
